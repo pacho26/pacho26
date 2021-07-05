@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 -->
 
 <!-- WAKATIME week stats -->
-<img src="https://wakatime.com/share/@pacho26/0e82e4a7-a418-4923-b414-08a58be2da43.svg" height="400">
+<img src="https://wakatime.com/share/@pacho26/32d443f0-6a13-4ab4-bcca-cd59c70ece83.svg" height="400">
