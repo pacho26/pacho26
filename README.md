@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 -->
 
 <!-- WAKATIME week stats -->
-<h2>🛠 Last 7 days</h2>
+<h2>🛠 Last 7 days (WakaTime)</h2>
 <p>
   <img src="https://wakatime.com/share/@pacho26/a118dccc-27a9-41de-aca1-06c602e19d45.svg" height="400">
 </p>
