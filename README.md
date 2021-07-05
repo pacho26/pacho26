@@ -18,9 +18,10 @@ Here are some ideas to get you started:
 -->
 
 <!-- WAKATIME week stats -->
-<img src="https://wakatime.com/share/@pacho26/a118dccc-27a9-41de-aca1-06c602e19d45.svg" height="400">
-
-<hr>
+<h2>🛠 Last 7 days</h2>
+<p>
+  <img src="https://wakatime.com/share/@pacho26/a118dccc-27a9-41de-aca1-06c602e19d45.svg" height="400">
+</p>
 
 <h2>🛠 Tech stack</h2>
 <p>
