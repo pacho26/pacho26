@@ -44,6 +44,6 @@ Here are some ideas to get you started:
   <br />
   
   <img alt="Visual Studio Code" src="https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white" />
-  <img alt="IntelliJ IDEA" src="https://img.shields.io/badge/-IntelliJ%20IDEA-red?style=flat-square&logo=intellij-idea&logoColor=white" />
+  <img alt="IntelliJ IDEA" src="https://img.shields.io/badge/-IntelliJ%20IDEA-red?style=flat-square&logo=intellij-idea&logoColor=blue" />
   <br />
 </p>
