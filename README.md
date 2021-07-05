@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 <!-- WAKATIME week stats -->
 <h2>👷 Last 7 days (WakaTime)</h2>
 <p>
-  <img src="https://wakatime.com/share/@pacho26/a118dccc-27a9-41de-aca1-06c602e19d45.svg" height="400">
+  <img src="https://wakatime.com/share/@pacho26/92655e24-a37d-4a7d-a93d-ba415df9d08e.svg" height="400">
 </p>
 
 <h2>🛠 Skills</h2>
