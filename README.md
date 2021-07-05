@@ -18,12 +18,12 @@ Here are some ideas to get you started:
 -->
 
 <!-- WAKATIME week stats -->
-<h2>🛠 Last 7 days (WakaTime)</h2>
+<h2>👷 Last 7 days (WakaTime)</h2>
 <p>
   <img src="https://wakatime.com/share/@pacho26/a118dccc-27a9-41de-aca1-06c602e19d45.svg" height="400">
 </p>
 
-<h2>🛠 Tech stack</h2>
+<h2>🛠 Skills</h2>
 <p>
   <img alt="Vue" src="https://img.shields.io/badge/-Vue-4FC08D?style=flat-square&logo=vue.js&logoColor=white" />
   <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
@@ -44,6 +44,6 @@ Here are some ideas to get you started:
   <br />
   
   <img alt="Visual Studio Code" src="https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white" />
-  <img alt="IntelliJ IDEA" src="https://img.shields.io/badge/-IntelliJ%20IDEA-blue?style=flat-square&logo=intellij-idea&logoColor=red" />
+  <img alt="IntelliJ IDEA" src="https://img.shields.io/badge/-IntelliJ%20IDEA-red?style=flat-square&logo=intellij-idea&logoColor=white" />
   <br />
 </p>
