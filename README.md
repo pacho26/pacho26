@@ -47,8 +47,3 @@ Here are some ideas to get you started:
   <img alt="IntelliJ IDEA" src="https://img.shields.io/badge/-IntelliJ%20IDEA-blue?style=flat-square&logo=intellij-idea&logoColor=red" />
   <br />
 </p>
-
-<h2>GitHub stats</h2>
-  <p>
-  <img alt="gitStats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pacho26&theme=blue-green" />
-  </p>
