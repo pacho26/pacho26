@@ -19,9 +19,9 @@ Here are some ideas to get you started:
 
 <!-- WAKATIME week stats -->
 <h2>⚡ Activity (last 30 days)</h2>
-<p>
-  <img src="https://wakatime.com/share/@pacho26/92655e24-a37d-4a7d-a93d-ba415df9d08e.svg" height="400">
-</p>
+<div>
+  <figure><embed src="https://wakatime.com/share/@pacho26/458e5cfc-ca8c-4306-a069-a8b7a2da83a1.svg"></embed></figure>
+</div>
 
 <h2>🛠 Skills</h2>
 <p>
