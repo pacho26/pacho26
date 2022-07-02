@@ -6,7 +6,6 @@
 **pacho26/pacho26** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
@@ -39,9 +38,5 @@ Here are some ideas to get you started:
   
   <img alt="Firebase" src="https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" />
   <img alt="MySQL" src="https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
-  <br />
-  
-  <img alt="Visual Studio Code" src="https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white" />
-  <img alt="IntelliJ IDEA" src="https://img.shields.io/badge/-IntelliJ%20IDEA-red?style=flat-square&logo=intellij-idea&logoColor=white" />
   <br />
 </p>
